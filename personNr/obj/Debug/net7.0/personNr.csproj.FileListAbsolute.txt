@@ -1,0 +1,14 @@
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\bin\Debug\net7.0\personNr.exe
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\bin\Debug\net7.0\personNr.deps.json
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\bin\Debug\net7.0\personNr.runtimeconfig.json
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\bin\Debug\net7.0\personNr.dll
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\bin\Debug\net7.0\personNr.pdb
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.AssemblyInfoInputs.cache
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.AssemblyInfo.cs
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.csproj.CoreCompileInputs.cache
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.dll
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\refint\personNr.dll
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.pdb
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\personNr.genruntimeconfig.cache
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-6-CI-CD\personNr\obj\Debug\net7.0\ref\personNr.dll
