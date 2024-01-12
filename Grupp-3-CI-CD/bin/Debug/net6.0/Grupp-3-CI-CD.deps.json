@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Grupp-3-CI-CD/1.0.0": {
+        "runtime": {
+          "Grupp-3-CI-CD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grupp-3-CI-CD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

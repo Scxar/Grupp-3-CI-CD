@@ -1,0 +1,14 @@
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\bin\Debug\net6.0\Grupp-3-CI-CD.exe
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\bin\Debug\net6.0\Grupp-3-CI-CD.deps.json
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\bin\Debug\net6.0\Grupp-3-CI-CD.runtimeconfig.json
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\bin\Debug\net6.0\Grupp-3-CI-CD.dll
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\bin\Debug\net6.0\Grupp-3-CI-CD.pdb
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.AssemblyInfoInputs.cache
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.AssemblyInfo.cs
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.CoreCompileInputs.cache
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.dll
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\refint\Grupp-3-CI-CD.dll
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.pdb
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\Grupp-3-CI-CD.genruntimeconfig.cache
+C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-ci-cd\obj\Debug\net6.0\ref\Grupp-3-CI-CD.dll
