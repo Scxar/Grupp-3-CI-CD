@@ -4,10 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Opersion op = new Opersion();
-            // rätta person nummert 
-            int personnummer = op.personmmer("sdsd");
-            Console.WriteLine(personnummer);
+            Opersion opersion = new Opersion();
+
+            // först vi ska rätta person nummerts siffror (att den ska vara 10 sif) och convertera till int base 32
+            // sedan vi checka om person nummert är korekt 
+            // sedan kollar vi vilken kön detta är 
+
         }
     }
 }
