@@ -17,8 +17,14 @@ jobs:
       with:
         dotnet-version: '6.x'
 
+  restore_dependencies:
+    needs: setup_dotnet
+
+    steps:
     - name: Restore Dependencies
       run: dotnet restore
 
     - name: Run Unit Tests
       run: dotnet test
+
+
