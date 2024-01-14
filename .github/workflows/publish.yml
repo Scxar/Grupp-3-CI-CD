@@ -1,32 +1,30 @@
-name: Unit Tests on xunit branch
+name: Unit Tests on xunit breanche
 on:
   push:
     branches:
       - xunit
 
 jobs:
-  setup_dotnet:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
-
-    - name: Set up .NET Environment
+    - uses: actions/checkout@v3
+    - name: Set up .NET For Env
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '6.x'
 
-  restore_dependencies:
-    needs: setup_dotnet
-
+  
+  restore:
+    runs-on: ubuntu-latest
+    needs: build
     steps:
-    - name: Restore Dependencies
+    - name: restore dependencies
       run: dotnet restore
 
-  run_tests:
-    needs: restore_dependencies
-
+  run_test:
+    runs-on: ubuntu-latest
+    needs: restore
     steps:
-    - name: Run Unit Tests
+    - name: Run Unit tests
       run: dotnet test
