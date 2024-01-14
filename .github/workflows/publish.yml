@@ -23,9 +23,8 @@ jobs:
 
     steps:
     - name: Restore Dependencies
-      run: |
-        cd /home/runner/work/Grupp-3-CI-CD/Grupp-3-CI-CD/Grupp-3-CI-CD/Grupp-3-CI-CD.csproj
-        dotnet restore
+      run: dotnet restore C:\\Users\\alikh\\OneDrive\\Skrivbord\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj
+        
 
     - name: Run Unit Tests
       run: dotnet test
