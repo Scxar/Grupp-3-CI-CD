@@ -26,8 +26,9 @@ namespace Grupp_3_CI_CD
         }
 
         [Fact]
-        public void TestName2()
+        public void Gender()
         {
+            // oscar
             // Given
         
             // When
