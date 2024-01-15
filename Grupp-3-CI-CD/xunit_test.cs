@@ -5,7 +5,7 @@ namespace Grupp_3_CI_CD
     public class xunitTest
     {
         Opersion opersion = new Opersion();
-
+/*
         [Fact]
         public void personmmerToIntTest()
         {
@@ -26,18 +26,19 @@ namespace Grupp_3_CI_CD
             // Then
         }
 
+        */
+
         [Fact]
         public void Gender()
         {
             // oscar
-            // Given
-        
-            // When
-        
-            // Then
+            string pers_nr = "9606234221";
+            string result = opersion.Gender(pers_nr);
+
+            //Assert.Equal("Man", result);
+            //Assert.Equal("Kvinna", result);
+
+            Assert.True(result.Equals("Man") || result.Equals("Kvinna"));
         }
-
-
-
     }
 }
