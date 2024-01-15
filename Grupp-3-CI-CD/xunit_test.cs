@@ -5,7 +5,7 @@ namespace Grupp_3_CI_CD
     public class xunitTest
     {
         Opersion opersion = new Opersion();
-/*
+
         [Fact]
         public void personmmerToIntTest()
         {
@@ -14,7 +14,7 @@ namespace Grupp_3_CI_CD
 
             Assert.Equal(result1,opersion.personmmerToInt(pers_nr));
         }
-
+/*
         [Fact]
         public void checkPersonNummer()
         {
