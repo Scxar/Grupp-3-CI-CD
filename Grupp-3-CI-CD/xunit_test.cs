@@ -16,8 +16,9 @@ namespace Grupp_3_CI_CD
         }
 
         [Fact]
-        public void TestName()
+        public void checkPersonNummer()
         {
+            // mikael
             // Given
         
             // When
