@@ -97,3 +97,11 @@ C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\bin\Debug\net6.0\z
 C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.AssemblyReference.cache
 C:\Users\alikh\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.CopyComplete
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.AssemblyReference.cache
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.AssemblyInfoInputs.cache
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.AssemblyInfo.cs
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.CoreCompileInputs.cache
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.dll
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\refint\Grupp-3-CI-CD.dll
+c:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.pdb

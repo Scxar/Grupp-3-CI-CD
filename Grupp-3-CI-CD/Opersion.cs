@@ -35,11 +35,18 @@ namespace Grupp_3_CI_CD
             return true;
         }
 
-        public string Gender(string personmmer)
+        public string Gender(string personnummer)
         {
-            //     // säga till om person nummert är män eller kvinna ! 
+            // Oscar    
+            // säga till om person nummert är män eller kvinna ! 
+            int GenderNr = int.Parse(personnummer.Substring(8, 1));
+    
+            if (GenderNr % 2 == 0)
+            {
+                return "Kvinna";
+            }
 
-            return " ";
+            return "Man";
         }
     }
 }
