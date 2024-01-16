@@ -35,10 +35,12 @@ namespace Grupp_3_CI_CD
             string pers_nr = "9606234221";
             string result = opersion.Gender(pers_nr);
 
-            //Assert.Equal("Man", result);
-            //Assert.Equal("Kvinna", result);
-
+            // funktion funkar korekt
             Assert.True(result.Equals("Man") || result.Equals("Kvinna"));
+
+            //Assert.Equal("Man", result);
+            Assert.Equal("Kvinna", result);
+
         }
     }
 }
