@@ -196,3 +196,11 @@ C:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\bin\Debug\net6.0\zh-Han
 C:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.CopyComplete
 C:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.genruntimeconfig.cache
 C:\Users\oscar\Code\Git Mapp\Grupp-6-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\ref\Grupp-3-CI-CD.dll
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.AssemblyReference.cache
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.AssemblyInfoInputs.cache
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.AssemblyInfo.cs
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.csproj.CoreCompileInputs.cache
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.dll
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\refint\Grupp-3-CI-CD.dll
+c:\Users\micke\OneDrive\Skrivbord\Grupp-3-CI-CD\Grupp-3-CI-CD\obj\Debug\net6.0\Grupp-3-CI-CD.pdb

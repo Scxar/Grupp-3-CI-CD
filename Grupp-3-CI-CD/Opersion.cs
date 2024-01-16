@@ -31,7 +31,7 @@ namespace Grupp_3_CI_CD
     
         
    
-    static bool IsValidPersonnummer(string personnummer)
+    public bool IsValidPersonnummer(string personnummer)
     {
         // Kontrollera om längden är korrekt (12 tecken inklusive bindestreck)
         if (personnummer.Length != 13)
