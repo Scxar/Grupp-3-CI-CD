@@ -28,12 +28,61 @@ namespace Grupp_3_CI_CD
             return result;
         }
 
-        public bool checkPersonNummer(string personnummer)
+    
+        
+   
+    static bool IsValidPersonnummer(string personnummer)
+    {
+        // Kontrollera om längden är korrekt (12 tecken inklusive bindestreck)
+        if (personnummer.Length != 13)
         {
-            // // mikael 
-            // // kollar om person nummert är korekt eller inte
-            return true;
+            return false;
         }
+
+        // Kontrollera om de första 8 tecknen är siffror
+        for (int i = 0; i < 8; i++)
+        {
+            if (!char.IsDigit(personnummer[i]))
+            {
+                return false;
+            }
+        }
+
+        // Kontrollera om det nionde tecknet är ett bindestreck
+        if (personnummer[8] != '-')
+        {
+            return false;
+        }
+
+        // Kontrollera om de sista fyra tecknen är siffror
+        for (int i = 9; i < 13; i++)
+        {
+            if (!char.IsDigit(personnummer[i]))
+            {
+                return false;
+            }
+        }
+
+        // Kontrollera kontrollsiffran
+        int[] weights = { 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1 };
+        int sum = 0;
+
+        for (int i = 0; i < 12; i++)
+        {
+            int digit = int.Parse(personnummer[i].ToString());
+            sum += digit * weights[i];
+
+            if (digit > 4)
+            {
+                sum -= 9;
+            }
+        }
+
+        return sum % 10 == 0;
+    }
+
+
+       
 
         public string Gender(string personnummer)
         {
