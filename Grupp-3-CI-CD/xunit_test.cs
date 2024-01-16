@@ -14,7 +14,7 @@ namespace Grupp_3_CI_CD
 
             Assert.Equal(result1,opersion.personmmerToInt(pers_nr));
         }
-/*
+
         [Fact]
         public void checkPersonNummer()
         {
@@ -26,7 +26,7 @@ namespace Grupp_3_CI_CD
             // Then
         }
 
-        */
+        
 
         [Fact]
         public void Gender()
