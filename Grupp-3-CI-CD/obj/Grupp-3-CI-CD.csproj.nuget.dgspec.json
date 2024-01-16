@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micke\\OneDrive\\Skrivbord\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj": {}
+    "C:\\Users\\oscar\\Code\\Git Mapp\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micke\\OneDrive\\Skrivbord\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj": {
+    "C:\\Users\\oscar\\Code\\Git Mapp\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micke\\OneDrive\\Skrivbord\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Code\\Git Mapp\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj",
         "projectName": "Grupp-3-CI-CD",
-        "projectPath": "C:\\Users\\micke\\OneDrive\\Skrivbord\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj",
-        "packagesPath": "C:\\Users\\micke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micke\\OneDrive\\Skrivbord\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\obj\\",
+        "projectPath": "C:\\Users\\oscar\\Code\\Git Mapp\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\Grupp-3-CI-CD.csproj",
+        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar\\Code\\Git Mapp\\Grupp-3-CI-CD\\Grupp-3-CI-CD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\micke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
