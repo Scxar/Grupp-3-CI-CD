@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace Grupp_3_CI_CD
 {
-    public class Opersion
+    public class Opersion // : IOpersion
     {
         public long personmmerToInt(string personnummer)
         {
@@ -34,10 +30,10 @@ namespace Grupp_3_CI_CD
     public bool IsValidPersonnummer(string personnummer)
     {
         // Kontrollera om längden är korrekt (12 tecken inklusive bindestreck)
-        if (personnummer.Length != 13)
-        {
-            return false;
-        }
+        // if (personnummer.Length != 13)
+        // {
+        //     return false;
+        // }
 
         // Kontrollera om de första 8 tecknen är siffror
         for (int i = 0; i < 8; i++)
@@ -69,6 +65,7 @@ namespace Grupp_3_CI_CD
 
         for (int i = 0; i < 12; i++)
         {
+            // int.pars konvertera till int base 32 men person nummert är längre än inte base 32  
             int digit = int.Parse(personnummer[i].ToString());
             sum += digit * weights[i];
 
