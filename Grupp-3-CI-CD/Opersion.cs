@@ -2,7 +2,7 @@
 
 namespace Grupp_3_CI_CD
 {
-    public class Opersion // : IOpersion
+    public class Opersion : IOpersion
     {
         public long personmmerToInt(string personnummer)
         {
